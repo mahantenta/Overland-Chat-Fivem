@@ -9,3 +9,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 Discord Stats:
 [![Discord Presence](https://lanyard.cnrad.dev/api/709695305003565086)](https://discord.com/users/709695305003565086)
+
+# 🔥 IMG :
+https://s34.picofile.com/file/8487514034/gg.png
